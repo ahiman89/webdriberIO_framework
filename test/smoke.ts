@@ -2,7 +2,7 @@
 describe('Smoke test', () => {
     it('ducks should be alive', () => {
         browser.url('/')
-        expect(browser).toHaveTitle('Online Store | My Store');
+        expect(browser).toHaveTitle('Onlnjmine Store | My Store');
     })
 
     // it('ducks should be dead @SMOKE', () => {
